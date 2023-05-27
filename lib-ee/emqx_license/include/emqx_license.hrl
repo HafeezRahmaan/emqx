@@ -5,7 +5,7 @@
 %%--------------------------------------------------------------------
 
 -ifndef(_EMQX_LICENSE_).
--define(_EMQX_LICENSE_, true).
+-define(_EMQX_LICENSE_, false).
 
 -define(EVALUATION_LOG,
     "\n"

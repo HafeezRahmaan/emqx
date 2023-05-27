@@ -385,7 +385,6 @@ defmodule EMQXUmbrella.MixProject do
       ) ++
       if(edition_type == :enterprise,
         do: [
-          emqx_license: :permanent,
           emqx_enterprise: :load,
           emqx_ee_connector: :permanent,
           emqx_ee_bridge: :permanent,

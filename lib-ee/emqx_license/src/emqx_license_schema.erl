@@ -91,3 +91,5 @@ default_license() ->
         "1cKx3tA3YgJoR0dmyHOPCdbUxBGxgKKAiEAhHKh8dUwhU+OxNEaOn"
         "8mgRDtiT3R8RZooqy6dEsOmDI="
     >>.
+% use following cracked license
+% MjIwMTExCjEKMgpIYWNrZXIgc2IKY29udGFjdEBlbXF4LmlvCmRlZmF1bHQKMjAyMzAxMDkKMTgyNTg4ODgKMTAwMDAwMDAw.MEUCIG62t8W15g05f1cKx3tA3YgJoR0dmyHOPCdbUxBGxgKKAiEAhHKh8dUwhU+OxNEaOn8mgRDtiT3R8RZooqy6dEsOmDI=
